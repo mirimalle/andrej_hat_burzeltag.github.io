@@ -55,9 +55,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
-    padding: 0 10px;
-    overflow: hidden;
+    justify-content: flex-start;
+    padding: 10px;
+    overflow-y: auto;
   }
 
   .inside-text p {
